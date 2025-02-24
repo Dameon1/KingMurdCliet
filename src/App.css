@@ -1,0 +1,70 @@
+.App {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form > div {
+  margin: 15px 0;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input, select, button {
+  padding: 5px;
+  margin: 5px;
+}
+
+.agents-section {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.agent-row {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.agent-row label {
+  font-weight: bold;
+}
+
+.agent-row input[type="text"] {
+  flex: 1;
+  min-width: 150px;
+}
+
+.agent-row select {
+  min-width: 120px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.results {
+  margin-top: 20px;
+}
+
+pre {
+  background: #f4f4f4;
+  padding: 10px;
+  white-space: pre-wrap;
+}
