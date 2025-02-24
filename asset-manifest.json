@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KingMurdCliet/static/css/main.f15a1852.css",
+    "main.js": "/KingMurdCliet/static/js/main.3f9afad4.js",
+    "static/js/453.8ab44547.chunk.js": "/KingMurdCliet/static/js/453.8ab44547.chunk.js",
+    "index.html": "/KingMurdCliet/index.html",
+    "main.f15a1852.css.map": "/KingMurdCliet/static/css/main.f15a1852.css.map",
+    "main.3f9afad4.js.map": "/KingMurdCliet/static/js/main.3f9afad4.js.map",
+    "453.8ab44547.chunk.js.map": "/KingMurdCliet/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f15a1852.css",
+    "static/js/main.3f9afad4.js"
+  ]
+}
